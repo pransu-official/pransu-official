@@ -15,12 +15,12 @@
 
 ## 📌 Projects
 
-### 🎵 Hospital Management System 
+###  Hospital Management System 
 Full Stack Project Using Java,SpringBoot,Rest API,CRUD Operation,Oracle Database Sql , HTML , CSS , JavaScript.  
 🔗 GitHub Repo: (https://github.com/pransu-official/Hospital-Management-System)
 
 
-### 🎵 Online Electronic Portal
+###  Online Electronic Portal
 Full Stack Project Using Java,SpringBoot,Rest API,CRUD Operation,Oracle Database Sql , HTML , CSS , JavaScript.
 🔗 GitHub Repo: (https://github.com/pransu-official/Online-Electronic-Portal)
 
