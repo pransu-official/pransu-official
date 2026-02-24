@@ -17,6 +17,7 @@
 
 ###  Hospital Management System 
 Full Stack Project Using Java,SpringBoot,Rest API,CRUD Operation,Oracle Database Sql , HTML , CSS , JavaScript.  
+
 🔗 GitHub Repo: (https://github.com/pransu-official/Hospital-Management-System)
 
 
@@ -27,7 +28,8 @@ Full Stack Project Using Java,SpringBoot,Rest API,CRUD Operation,Oracle Database
 
 
 ### 🎵 VibeCast – Music Website
-Responsive music streaming website with song search and progress bar.  
+Responsive music streaming website with song search and progress bar. 
+
 🔗 Live Demo:  (https://polite-eclair-94a839.netlify.app) 
 🔗 GitHub Repo: (https://github.com/pransu-official/Music-Website)
 
