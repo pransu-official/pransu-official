@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Pransu Chaturvedi 👋
 
-<!--
-**pransu-official/pransu-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA 2025 | Java Backend Developer  
+💻 Skilled in Spring Boot, MySQL, REST APIs  
+🚀 Passionate about building scalable Full Stack Project  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Java
+- Spring Boot
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+### 🎵 Hospital Management System 
+Full Stack Project Using Java,SpringBoot,Rest API,CRUD Operation,Oracle Database Sql , HTML , CSS , JavaScript.  
+🔗 GitHub Repo: (https://github.com/pransu-official/Hospital-Management-System)
+
+
+### 🎵 Online Electronic Portal
+Full Stack Project Using Java,SpringBoot,Rest API,CRUD Operation,Oracle Database Sql , HTML , CSS , JavaScript.
+🔗 GitHub Repo: (https://github.com/pransu-official/Online-Electronic-Portal)
+
+
+### 🎵 VibeCast – Music Website
+Responsive music streaming website with song search and progress bar.  
+🔗 Live Demo:  (https://polite-eclair-94a839.netlify.app) 
+🔗 GitHub Repo: (https://github.com/pransu-official/Music-Website)
+
+
+---
+
+📫 Reach me at: pransuch0000@gmail.com
